@@ -10,6 +10,9 @@ jobs:
   calidad:
  
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./Code Review automático IA
  
     steps:
  
