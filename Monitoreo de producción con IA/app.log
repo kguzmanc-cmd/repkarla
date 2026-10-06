@@ -1,0 +1,12 @@
+10:00 INFO Aplicación iniciada
+10:01 INFO Usuario autenticado
+10:02 INFO Producto consultado
+10:03 INFO Producto consultado
+10:04 WARNING Respuesta lenta: 850ms
+10:05 WARNING Respuesta lenta: 920ms
+10:06 ERROR Database connection timeout
+10:06 ERROR Database connection timeout
+10:07 ERROR Database connection timeout
+10:08 WARNING Respuesta lenta: 1200ms
+10:09 ERROR Database connection timeout
+10:10 ERROR Database connection timeout
